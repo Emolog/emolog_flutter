@@ -5,6 +5,7 @@ This is my ***first personal mobile UX/UI project***. Main goal is ***to visuali
 
 ## Research
 I interviewed with my friends and families about their personal thoughts and experiences with journaling.
+
 🟢 Here is main key points about journaling:
 - People like to ponder and record about their personal feelings and emotions. (Main key) 
 - People agree that questions about the feelings would be helpful for writing journals, but if they already have things to talk about then questions will be useless. (Make it optional) 
@@ -34,6 +35,7 @@ I used Figma for my Low/Hight fidelity wireframes. I sketched on my iPad first, 
 These are the testable mobile prototype.
 
 ✨ Lo-fi: https://www.figma.com/file/AMO6F2YbHdWFdtrdRMpSH2/Lo_fi-Final
+
 ✨ Hi-fi: https://www.figma.com/file/p6glTLrvM4y5tvO8o4hcKD/Hi_fi?node-id=0%3A1
 
 ## framework
