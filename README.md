@@ -1,7 +1,7 @@
 # flutter
 
 ## Description
-This is my first personal mobile UX/UI project. Main goal is to visualize feelings and emotions through a journal calendar.
+This is my **first personal mobile UX/UI project**. Main goal is **to visualize feelings and emotions through a journal calendar**.
 
 ## Research
 I interviewed with my friends and families about their personal thoughts and experiences with journaling.
@@ -30,6 +30,11 @@ My research concluded with possible features for my journaling app.
 - [ ] (User can order printed journal book for the year)
 
 ## Wireframes
+I used Figma for my Low/Hight fidelity wireframes. I sketched on my iPad first, and then got tested by people.
+These are the testable mobile prototype.
+
+✨ Lo-fi: https://www.figma.com/file/AMO6F2YbHdWFdtrdRMpSH2/Lo_fi-Final
+✨ Hi-fi: https://www.figma.com/file/p6glTLrvM4y5tvO8o4hcKD/Hi_fi?node-id=0%3A1
 
 ## framework
 I am using Flutter (native app) for development.
