@@ -1,4 +1,4 @@
-# flutter
+# Emolog_flutter
 
 ## Description
 This is my ***first personal mobile UX/UI project***. Main goal is ***to visualize feelings and emotions through a journal calendar***.
