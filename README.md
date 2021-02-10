@@ -1,7 +1,7 @@
 # flutter
 
 ## Description
-This is my personal UX/UI project. Main goal is to visualize feelings and emotions through a journal calendar.
+This is my first personal mobile UX/UI project. Main goal is to visualize feelings and emotions through a journal calendar.
 
 ## Research
 I interviewed with my friends and families about their personal thoughts and experiences with journaling.
@@ -16,7 +16,18 @@ Here are some problems that they face:
 - Sometimes there are nothing to write about
 - Typing on mobile is difficult
 
+After the interviews, I tried out 3 different popular journaling apps such as Reflectly, Stoic and Prompted Journal.
+My research concluded with possible features for my journaling app.
 
+## Possible Features
+- [x] Voice memo --> to resolve difficulty in typing on mobile phone
+- [ ] Feelings and emotion level
+- [ ] Calendar view
+- [ ] Adopting different media formats
+- [ ] Various designs for journal template
+- [ ] Journal look back reminder option (1 year before today etc.)
+- [ ] Tag option
+- [ ] (User can order printed journal book for the year)
 
 ## Wireframes
 
